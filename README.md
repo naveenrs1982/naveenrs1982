@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Naveen
 - 👀 I’m interested in learning technologies.
-- 🌱 I’m currently learning Python/Django
+- 🌱 I’m currently learning ReactNative
 - 📫 How to reach me ... naveen.rs@gmail.com
 
 <!---
